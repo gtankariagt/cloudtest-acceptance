@@ -1,0 +1,8 @@
+target/
+logs/
+target/*.*
+*.logs
+reports/
+*.iml
+.idea/
+.gauge/
